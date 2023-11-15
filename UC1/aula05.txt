@@ -1,0 +1,14 @@
+1  sudo init 0
+    2  id
+    3  sudo
+    4  sudo -i
+    5  sudo apt up
+    6  sudo apt up 
+    7  sudo apt update 
+    8  sudo apt upgrade
+    9  sudo apt full upgrade
+   10  sudo apt full-upgrade
+   11  sudo apt dist-upgrade
+   12  sudo apt autoremove
+   13  sudo apt autoclean
+   14  history
